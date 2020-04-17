@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kola-trello",
+  "private_key_id": "9925c6d26831ee5b77288bc2e5ef0b4a110e6e77",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClNIB6PI1gn+dv\nRf7hG9VTP/goVIUecS2R/ZmGMH1vknkSO84s28gJ15fLYxzJOI70NQJA57o77zj4\ngCx4gqR2c6WVB9V0ycJ7UXlMlYsnxtwR1Ujuh6cxyIxYDUVAI2aXmBrAxhprmBO7\nhJud+rIuIn9rUO9uQTcV0am54My3A1n3OH9ZuvVBec9XVoL7RjoaLQlP8jSBRhBn\nB89Q9s5SpfMWzlaVJqww2CmUlSinNDtsMpK8X/ZGrrl1n10iCzV24pSXVOfyc9gT\nrxzmUru/l6pOItWZItaD01mOp36b+F8ulCSvaWdKhUy0y0K2Xnwt6Ba0x3kFGnwO\nTT2oHgL/AgMBAAECggEADkV+UdD4T6AQsKqlzZGHeLUefXFrvIj/bEyxngeDVoeb\nQOl8sqBb5AnFWbMasgFaTBtmMfAyxOmyDLmZ3eE/TuJHrBuso3WogNm1dlm21z1V\nFo9LyRtb5K+T/ClNUbCdNLxVl1ClyKSvE7RtcxTMnrKpOj6YKHimxxJBLMcQOEEE\nxosvS5bhWCUUt4qVAATG4D0wHHcnuofx+q+QQCe+r/DyXjFHRDmEPNk3P+heOFis\n88NZdlcsISUT6vufvFBtnz/GYv03OAIhxRAZ4FY6BVzeXHnaBox2esz+9rX9LS6e\nKf2bTzP/sOnpEmWZTMwnMkT/QJfJwP3MZ+dBaEbWqQKBgQDZl6qyHjwuVHdhy32w\nBEcxK8pBYzYEpQd8qTLvf2XDZCWRTCIz0sx9li3Chff3MV9rS3I0vcVQy72dvn7y\n+ZW+oW/1sjngr5J03P1lfDXZ4BJtXIOUlpU2/P9XilOJq8pzMIzAL+lKF7lN0Idq\nx4SqUyCZaq3m0t/l7wf52wysqQKBgQDCXZyBNYS/sJod71uL7FuITwkqj2qVNRbg\nIYMUDsqicp8dtcw+ALHWmBFWEn9X/6jZD6sJbcnPUJvTKSnsUeqDWd9XKvCPPkwt\n3t1assutgcoG00V5YNrxsqr1+soGeZUpKryoITUl3I/m6ZIEF8CcdLydEsv8A/3L\nvcBVWBQTZwKBgG+yRXONxcLapTXUab6zU4BQRFDwhsg3lvJNQNJkiW6VuBswA9aq\nfUJylybl8nY4KA1B+2xLhkCFdd7F7RD5Qf9Li9eKF9/ZAMtwrbss2c/wEEWHWhwq\neIpzsPfVEDD5uMEMyRPXBGB+cScaxojvxpBQf8mBU6fL1BeKboO6CHWRAoGAYv/V\naIa+//hO97JkOcgA81P2gkQccLVi2nSXVE8YbVferf5ccrRd4MUCB4pSbJsfALiX\nUK0oHr2bMRoFbYZn4dGUDc0kTIHZwX+D1d++GLlEEufnuiRYQMXViIbeAiBJlndb\nMnP/ozJN5brQkd8bT1WygHsDhXDvA6i5336Gcz8CgYAFtjOsOt0BKAnJhE42oDtG\nXTF49BgdA6+RRAG4dx/AC5iAZgMqTQZSIvQtmx85NIpghEEA47Fzu75C8pJVasvT\nTAWyEb8BmtmHtE2IxXv4wci8DvPqHaOVaX7bfAIjwYXH72FuEfYkkuShLzL7/m6b\n3UrSlVN1lEEHyHwwJuD5dw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "kola-trello@kola-trello.iam.gserviceaccount.com",
+  "client_id": "117169477336189250727",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kola-trello%40kola-trello.iam.gserviceaccount.com"
+}
