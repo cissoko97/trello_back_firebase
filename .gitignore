@@ -63,3 +63,7 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+
+**/functions/utils/config.js
+**/functions/utils/kola-trello-9925c6d26831.json
